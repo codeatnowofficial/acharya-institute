@@ -21,6 +21,7 @@ export const MainData = [
         },
       ],
     },
+    
     // {
     //   course: "excel",
     //   imageSrc:

@@ -19,6 +19,13 @@ const HeroComponent = () => {
           <p className="mt-4 text-lg text-white tracking-widest">
             Empowering minds through technology education.
           </p>
+
+          <div className="mt-4 text-lg text-white tracking-widest uppercase font-semibold flex items-center justify-center gap-8 flex-wrap">
+            <hr className="md:w-[20vw] md:block hidden items-center justify-center" />
+            <p className="text-white">Chetan Raval</p>
+            <p className="text-white">63559-61981</p>
+            <hr className="w-[20vw] flex items-center justify-center" />
+          </div>
         </div>
       </div>
     </div>
