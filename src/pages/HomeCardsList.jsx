@@ -8,7 +8,6 @@ const HomeCardsList = () => {
       <div>
         <a
           href="https://forms.gle/Cqmdn66NPHBoWJCm6"
-          onClick={handleClick}
           className="bg-fuchsia-100 text-fuchsia-900 capitalize border font-semibold border-fuchsia-900 hover:bg-fuchsia-200 px-8 py-4 rounded-lg"
         >
           fill the form
